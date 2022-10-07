@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\altie\Documents\curso_dart\expanses\build\windows\CMakeFiles\5dced0b53debdec1c370ac02164515e3\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E1BE73BB-E641-3973-AE1F-EF972ADE9A9B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
